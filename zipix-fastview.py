@@ -134,8 +134,6 @@ def print_zipix_info(FILE):
         print(MYERROR, "brak blokady")
         error_sw = True
 
-    print(SEPARATOR)
-
 # FILE - sprawdzany plik
 # rodzaj - rodzaj dokumentu - np. zarządzenie uchwała itp. - wg metadanych (metadane.xml)
 # xml_numer - numer aktu; powinien być baz spacji wg schematu nr/rok
