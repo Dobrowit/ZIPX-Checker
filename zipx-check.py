@@ -4,7 +4,7 @@ import os
 import re
 
 VERBOSE = 4
-MYDIRECTORY = r'C:\Users\radoslaw.czyzewski\Documents\#_Akty_prawne\Zarzadzenia_Burmistrza\##_NOWE\2024\ok'
+MYDIRECTORY = r'C:\WORKDIR\'
 ORGAN_WYD = 'Burmistrza Miasta Łeby'
 RODZAJ_OK = 'Zarządzenie'
 XMLNAZWA = 'zarzadzenie'
